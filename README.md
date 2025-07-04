@@ -5,6 +5,9 @@ A non official footprint for raspberry pi zero 2 w with test pad. work with 9002
 https://www.mouser.com/ProductDetail/Preci-dip/90025-AS?qs=RNeFVNNVJyHHutbD2vLaqg%3D%3D
 * SMD/SMT Mounted
 
+## Test pad function:
+https://datasheets.raspberrypi.com/rpizero2/raspberry-pi-zero-2-w-test-pads.pdf
+
 ## KiCad Footprint Import Guide (.kicad_mod)
 
 This guide provides instructions for importing individual KiCad footprints saved as `.kicad_mod` files into your KiCad libraries.
