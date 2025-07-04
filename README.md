@@ -3,7 +3,7 @@ A non official footprint for raspberry pi zero 2 w with test pad. work with 9002
 
 ## Compatible Spring-Loaded pin:
 https://www.mouser.com/ProductDetail/Preci-dip/90025-AS?qs=RNeFVNNVJyHHutbD2vLaqg%3D%3D
- SMD/SMT Mounted
+* SMD/SMT Mounted
 
 ## KiCad Footprint Import Guide (.kicad_mod)
 
